@@ -3,7 +3,7 @@
     <div id="start-container" class="animate__animated animate__fadeIn">
       <button id="btn-start">START TRIP</button>
       <div class="by">
-        <p>By: <a target="_blank" href="https://samuelvictorol.github.io/portfolio/">Samuel Victor</a></p>
+        <p>By: <a target="_blank" href="https://github.com/samuelvictorol/sistema-solar-3js">Samuel Victor</a></p>
       </div>
     </div>
   </div>
